@@ -6,6 +6,10 @@
 файловых текстовых сообщений. Оповещать источник об открытии файла. Параметры обмена заданы по умолчанию. Для контроля ошибки использовать [7,4]-код Хэмминга.
 
 ![zsh screenshot](https://github.com/SyomkinNikita/NT-coursework-2020/blob/master/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81/1.jpg)
+
+
 ![zsh screenshot](https://github.com/SyomkinNikita/NT-coursework-2020/blob/master/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81/2.jpg)
+
+
 ![zsh screenshot](https://github.com/SyomkinNikita/NT-coursework-2020/blob/master/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81/3.jpg)
 
